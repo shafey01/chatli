@@ -1,0 +1,10 @@
+# Go workspace file
+go.work
+go.work.sum
+*/*.mod
+*/*.sum
+*.mod
+*.sum
+# env file
+.env
+*/*.db
